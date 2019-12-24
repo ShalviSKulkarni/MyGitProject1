@@ -2,4 +2,6 @@ Created First File
 
 Change 1 in file
 
-Change 2 in file
+Change 2 in file.
+
+fix bug 1
